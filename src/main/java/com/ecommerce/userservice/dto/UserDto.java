@@ -1,4 +1,4 @@
 package com.ecommerce.userservice.dto;
 
-public class userDto {
+public class UserDto {
 }
